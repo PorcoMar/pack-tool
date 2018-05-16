@@ -1,0 +1,15 @@
+{
+  "name": "charley-learn-gulp",
+  "version": "1.0.0",
+  "description": "1. 基于 Task（任务）工作\r 2. 插件丰富、配置方便\r ## 安装\r 1. 全局安装\r ```\r npm install gulp -g\r yarn global add gulp\r ```\r 2. 在项目中安装\r ```\r npm install gulp -D\r yarn add gulp -D\r ```\r ## 配置文件\r 默认情况下，gulp 使员工 gulpfile.js 作为配置文件，因此需要新建一个。",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1"
+  }
+}

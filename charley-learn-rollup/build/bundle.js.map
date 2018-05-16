@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["../src/foo.js","../src/main.js"],"sourcesContent":["const str = \"Hello World\";\r\nexport default str;","import foo from \"./foo\"\r\nexport default function(){\r\n    console.log(foo)\r\n}"],"names":["foo"],"mappings":";;AAAA,MAAM,GAAG,GAAG,aAAa;;ACCV,aAAQ,EAAE;IACrB,OAAO,CAAC,GAAG,CAACA,GAAG,EAAC;;;;;"}
