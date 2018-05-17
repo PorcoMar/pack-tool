@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "css": "^2.2.3",
+    "debug": "^3.1.0",
+    "debug-fabulous": "^1.1.0",
+    "event-stream": "^3.3.4",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-watch": "^5.0.0",
+    "http-server": "^0.11.1",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "name": "porco",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 8887 -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
